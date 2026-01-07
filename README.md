@@ -6,6 +6,7 @@ This repository contains a **5-gram language model** implemented in Python, trai
 ## 📥 Dataset
 
 The text data used for training is obtained from **Project Gutenberg**. I have randdomly choosen author Edgar Allen Poe.
+The text corpus used in this project was obtained from Project Gutenberg and is in the public domain.
 
 Download the plain text file here:
 👉 https://www.gutenberg.org/ebooks/10031.txt.utf-8  
